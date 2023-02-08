@@ -32,7 +32,7 @@ a {
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
     -ms-transition: all .3s;
-    color: #3e43e9
+    color: #e93e3e
 }
 
 input:focus,
@@ -58,8 +58,8 @@ a:focus {
 }
 
 .btn.button-scheme {
-    background-color: #3e43e9;
-    border: 1px solid #3e43e9;
+    background-color: #e93e3e;
+    border: 1px solid #000000;
     color: #fff
 }
 
@@ -129,8 +129,8 @@ h5.subtitle {
     height: 78px;
     width: 78px;
     animation: rotation 1s infinite linear;
-    border: 2px solid rgba(62, 67, 233, .29);
-    border-top-color: #3e43e9;
+    border: 2px solid rgba(233, 62, 62, 0.29);
+    border-top-color: #e93e3e;
     border-radius: 50%;
     display: block;
     position: absolute;
@@ -183,7 +183,7 @@ h5.subtitle {
 
 .header-area.fixed .menu li a.active,
 .header-area.fixed .menu li a:hover {
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .header-area.fixed .menu li a {
@@ -320,7 +320,7 @@ h5.subtitle {
     bottom: 0;
     right: 0;
     top: 0;
-    background-image: linear-gradient(to right, #360b7b 0%, #003a9c 100%);
+    background-image: linear-gradient(to right, #7b0b0b 0%, #020200 100%);
     opacity: .6
 }
 
@@ -629,12 +629,12 @@ h5.subtitle {
 }
 
 .exp-content h3 span {
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .exp-content h5 {
     margin-bottom: 10px;
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .exp-content p {
@@ -753,7 +753,7 @@ h5.subtitle {
 .portfolio-area .works-filter li:before {
     content: "";
     position: absolute;
-    background-color: #3e43e9;
+    background-color: #e93e3e;
     visibility: hidden;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
@@ -775,7 +775,7 @@ h5.subtitle {
 
 .portfolio-area .works-filter li.tab-active,
 .portfolio-area .works-filter li:hover {
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .portfolio-area .works-filter li:not(:last-child) {
@@ -808,7 +808,7 @@ h5.subtitle {
 }
 
 .portfolio-area .works-container .works-item .item-overlay .category {
-    background: #3e43e9;
+    background: #e93e3e;
     color: #fff;
     font-size: 10px;
     text-transform: uppercase;
@@ -962,7 +962,7 @@ h5.subtitle {
 }
 
 .clients-area .testimonial-item .testimonial-detail .designation a {
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .clients-area .testimonial-item .testimonial-detail .rating .checked {
@@ -998,7 +998,7 @@ h5.subtitle {
     font-size: 55px;
     margin-right: 30px;
     margin-left: 15px;
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .clients-area .counter-area .counter {
@@ -1033,7 +1033,7 @@ h5.subtitle {
 }
 
 .blog-item .category {
-    background: #3e43e9;
+    background: #e93e3e;
     color: #fff;
     font-size: 10px;
     text-transform: uppercase;
@@ -1114,7 +1114,7 @@ h5.subtitle {
 }
 
 .blog-item:hover .blog-text .text-title h3 {
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .quote-area {
@@ -1128,7 +1128,7 @@ h5.subtitle {
 
 .contact-info .icon-box {
     font-size: 40px;
-    color: #3e43e9;
+    color: #e93e3e;
     margin-bottom: 15px
 }
 
@@ -1188,7 +1188,7 @@ h5.subtitle {
     left: 0;
     font-size: 11px;
     opacity: 1;
-    color: #3e43e9
+    color: #e93e3e
 }
 
 .form-area .floating-label {
@@ -1254,7 +1254,7 @@ h5.subtitle {
 .form-area .input-area input:focus,
 .form-area .select-area select:focus,
 .form-area .text-area textarea:focus {
-    border-color: #3e43e9
+    border-color: #e93e3e
 }
 
 .form-area .input-area input.error,
@@ -1362,7 +1362,7 @@ footer .copy-txt {
     .menu li a:active,
     .menu li a:focus,
     .menu li a:hover {
-        color: #3e43e9
+        color: #e93e3e
     }
 
     .menu li a:before {
